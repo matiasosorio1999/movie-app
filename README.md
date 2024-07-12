@@ -14,8 +14,8 @@ Esta es una aplicación de búsqueda de películas construida con Next.js y Type
 
 ## Requisitos
 
-- Node.js (versión 12 o superior)
-- npm (versión 6 o superior)
+- Node.js (versión 18.17.0 o superior)
+- npm (versión 9 o superior)
 
 ## Instalación
 
