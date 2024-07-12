@@ -2,8 +2,8 @@
 
 Esta es una aplicación de búsqueda de películas construida con Next.js y TypeScript. La aplicación permite a los usuarios buscar películas por título y año, y ver los detalles de cada película.
 
-![Screenshot 1](./assets/screenshot1.png)
-![Screenshot 2](./assets/screenshot2.png)
+![Screenshot 1](./assets/image1.png)
+![Screenshot 2](./assets/image2.png)
 
 ## Características
 
